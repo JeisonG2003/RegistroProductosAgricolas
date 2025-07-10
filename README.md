@@ -19,4 +19,3 @@ Se trabajó en NetBeans y se utilizó buenas prácticas como encapsulamiento, no
 - Una **sobrecarga de constructores** para demostrar flexibilidad al crear objetos.
 - Cálculo del costo total de un producto según su precio por kilo y cantidad.
 - Impresión detallada de los datos de cada producto.
-
