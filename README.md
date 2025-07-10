@@ -20,8 +20,3 @@ Se trabajó en NetBeans y se utilizó buenas prácticas como encapsulamiento, no
 - Cálculo del costo total de un producto según su precio por kilo y cantidad.
 - Impresión detallada de los datos de cada producto.
 
-## ️ Ejemplo de ejecución del programa
-
-Al ejecutar el programa, la salida que se muestra en consola es la siguiente:
-
-
